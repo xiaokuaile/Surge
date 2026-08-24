@@ -5,8 +5,8 @@ GlobalScholar.list	Scholar	https://rawstatic.com/blackmatrix7/ios_rule_script/ma
 myTVSUPER.list	MyTVSuper	https://rawstatic.com/blackmatrix7/ios_rule_script/master/rule/Clash/myTVSUPER/myTVSUPER.list		
 Extra_Crypto.list	Crypto	https://rawstatic.com/nexitallyy/ProxyRules/main/Extra_Crypto.list		未找到明确公开许可证
 Extra_AI.list	AI	https://rawstatic.com/nexitallyy/ProxyRules/main/Extra_AI.list		未找到明确公开许可证
-Google.list	Proxy	https://rawstatic.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list	https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Google/Google.list	原地址已 404，改用 blackmatrix7 对应规则
-YouTube.list	Proxy	https://rawstatic.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list	https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list	原地址已 404，改用 blackmatrix7 对应规则
+Google.list	Proxies	https://rawstatic.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list	https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Google/Google.list	原地址已 404，改用 blackmatrix7 对应规则
+YouTube.list	Proxies	https://rawstatic.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list	https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list	原地址已 404，改用 blackmatrix7 对应规则
 GameDownload.list	🎯Direct	https://rawstatic.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.list		
 LocalAreaNetwork.list	🎯Direct	https://rawstatic.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list		
 ChinaCompanyIp.list	🎯Direct	https://rawstatic.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list		
